@@ -39,8 +39,9 @@ A mini-project that captures network packets, analyzes them, and saves them for 
 ## Requirements.txt
 
 ```
-Python 3.8+
-Scapy, Pandas, Streamlit
+scapy==2.5.0
+pandas==2.2.2
+streamlit==1.37.0
 ```
 
 
