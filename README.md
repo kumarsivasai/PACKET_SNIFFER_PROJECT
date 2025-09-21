@@ -3,6 +3,13 @@
 ## **Overview**
 This is a mini-project that captures network packets, analyzes them, and saves them for further analysis. It is a simplified version of Wireshark, designed to be lightweight and easy to use.
 
+
+## **Project detailed view with Screenshot**
+For a visual demonstration of the brute-force attack simulation, click [Here to see more information](https://kumarsivasai.github.io/Tools/PACKET_SNIFFING_TOOL).
+
+
+
+
 ## **Features**
 - Capture live network packets
 - Display source/destination IPs, protocol, and packet length
