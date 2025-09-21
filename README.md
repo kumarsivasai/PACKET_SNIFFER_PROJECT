@@ -5,7 +5,7 @@ This is a mini-project that captures network packets, analyzes them, and saves t
 
 
 ## **Project detailed view with Screenshot**
-For a visual demonstration of the brute-force attack simulation, click [Here to see more information](https://kumarsivasai.github.io/Tools/PACKET_SNIFFING_TOOL).
+For a visual demonstration of the brute-force attack simulation, click [Here to see more detail information with screenshots ](https://kumarsivasai.github.io/Tools/PACKET_SNIFFING_TOOL).
 
 
 
