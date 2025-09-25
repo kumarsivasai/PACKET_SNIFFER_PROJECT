@@ -118,7 +118,7 @@ packet_capture_project/
    
      run dashboard.py
    ```
-10. If Any address capture the maor that 1500 packets that packet should be highlight with red color that feature also can see in the live capturing
+10. If Any address capture the more that 1500 packets that packet should be highlight with red color that feature also can see in the live capturing
 
 
 
