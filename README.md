@@ -62,14 +62,14 @@ packet_capture_project/
    ```
 
 
-   3. Activate the virtual Environment:
+3. Activate the virtual Environment:
    ```bash
    source venv/bin/activate
    ```
 
 
 
-2. Install dependencies in your main Folder:
+4. Install dependencies in your main Folder:
    ```bash
    pip install -r requirements.txt
 
@@ -83,13 +83,13 @@ packet_capture_project/
 
 
 
-4. first List the files:
+5. first List the files:
    ```bash
    ls
    ```
 
 
-5. List of files In the project folder:
+6. List of files In the project folder:
    ```bash
    main.py
    packet_sniffer.py
@@ -100,7 +100,7 @@ packet_capture_project/
    README.md
    ``` 
 
-6. run the main.py file:
+7. run the main.py file:
    ```bash
    sudo python main.
    ```
@@ -111,7 +111,7 @@ packet_capture_project/
 
 
 
-7. All That Packets are stored in the project folder:
+8. All That Packets are stored in the project folder:
    ```
    you can see like this the stored csv file:
 
@@ -121,20 +121,20 @@ packet_capture_project/
    ```
 
 
-8. THIS INDICATES captured_packets_20250921_035042.csv:
+9. THIS INDICATES captured_packets_20250921_035042.csv:
    ```
     20250921 → Date in YYYYMMDD format → 2025-09-21
     035042 → Time in HHMMSS format → 03:50:42 (3:50 AM + 42 seconds).
     .csv → File type
    ```
 
-9. We can see that packets in live Capturing also
+10. We can see that packets in live Capturing also
    ```
     open another terminal and run this command:
    
      run dashboard.py
    ```
-10. If Any address capture the more that 1500 packets that packet should be highlight with red color that feature also can see in the live capturing
+11. If Any address capture the more that 1500 packets that packet should be highlight with red color that feature also can see in the live capturing
 
 
 
