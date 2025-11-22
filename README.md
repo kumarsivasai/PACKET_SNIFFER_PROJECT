@@ -56,16 +56,32 @@ packet_capture_project/
    ```
 
 
-2. Install dependencies in your main Folder:
+2. create a virtual env:
    ```bash
-   pip install -r requirements.txt
+   python3 -m venv venv
    ```
 
 
-3. Activate the virtual Environment:
+   3. Activate the virtual Environment:
    ```bash
    source venv/bin/activate
    ```
+
+
+
+2. Install dependencies in your main Folder:
+   ```bash
+   pip install -r requirements.txt
+
+            or
+
+   pip install scapy
+   pip install streamlit
+   pip install pandas
+   pip matplotlib
+   ```
+
+
 
 4. first List the files:
    ```bash
