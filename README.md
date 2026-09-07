@@ -5,7 +5,7 @@ This is a mini-project that captures network packets, analyzes them, and saves t
 
 
 ## **Project detailed view with Screenshot**
-For a visual demonstration of the Live Packet Capturing & Analysis Tool, click [Here to see more detail information with screenshots ](https://kumarsivasai.github.io/Tools/PACKET_SNIFFING_TOOL).
+For a visual demonstration of the Live Packet Capturing & Analysis Tool, click [Here to see more detail information with screenshots ](https://www.linkedin.com/posts/kumar-siva-sai-m-069973358_networksecurity-networkmonitoring-packetanalysis-activity-7400168784914698240-7Z1_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFkht5EB5oXwQp1BaFRPz5qRAj9ZKiZmRy8).
 
 
 
